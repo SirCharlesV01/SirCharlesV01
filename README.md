@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Carlos
+### Hello! 👋 I'm Carlos.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlosvq04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=carlosvq04)
 
@@ -8,7 +8,7 @@
 - :octopus: I’m currently working on [ESP32 Micropython projects][esp-repo]!
 - :basketball: Fun fact: I love basketball, hiphop, and making playlists.
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧 :notes:
 [<img src="https://novatorem-delta.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350" />](https://open.spotify.com/user/phnnicodkw10z4ewpmpyzvvx4)
 
 ### Connect with me:
