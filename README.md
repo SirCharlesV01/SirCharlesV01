@@ -4,7 +4,7 @@
 
 ## I'm an electrical engineering student from Costa Rica!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on [ESP32 Micropython projects][esp-repo]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -95,6 +95,7 @@
 
 </details>
 
+[esp-repo]: https://github.com/SirCharlesV01/esp32_micropython
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/carlosvq04
 [youtube]: https://youtube.com/codeSTACKr
