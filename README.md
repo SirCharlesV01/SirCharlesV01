@@ -4,11 +4,9 @@
 
 ## I'm an electrical engineering student from Costa Rica!
 
-- 🔭 I’m currently working on [ESP32 Micropython projects][esp-repo]!:octopus:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :mortar_board: Fourth year student of Electrical Engineering, UCR.
+- :octopus: I’m currently working on [ESP32 Micropython projects][esp-repo]!
+- :basketball: Fun fact: I love basketball, hiphop, and making playlists.
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem-delta.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350" />](https://open.spotify.com/user/phnnicodkw10z4ewpmpyzvvx4)
