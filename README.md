@@ -4,7 +4,7 @@
 
 ## I'm an electrical engineering student from Costa Rica!
 
-- 🔭 I’m currently working on [ESP32 Micropython projects][esp-repo]!
+- 🔭 I’m currently working on [ESP32 Micropython projects][esp-repo]!:octopus:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
