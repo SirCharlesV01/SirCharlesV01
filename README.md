@@ -4,9 +4,9 @@
 
 ## I'm an electrical engineering student from Costa Rica!
 
-- :mortar_board: Fourth year student of Electrical Engineering, UCR.
+- :mortar_board: Fifth year student of Electrical Engineering, UCR.
 - :octopus: I’m currently working on [ESP32 Micropython projects][esp-repo]!
-- :basketball: Fun fact: I love basketball, hiphop, and making playlists.
+- :basketball: Fun fact: I love basketball, hiphop, R&B, and making playlists.
 
 ### Spotify Playing 🎧 :notes:
 [<img src="https://novatorem-delta.vercel.app/api/spotify-playing" alt="Spotify now playing" width="350" />](https://open.spotify.com/user/phnnicodkw10z4ewpmpyzvvx4)
